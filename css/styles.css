@@ -1,0 +1,13 @@
+body{background-color: #252A34; color: #EAEAEA; text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+h1,h3{color: #FF2E63}
+a:link {color : darkgray;} 
+    a:visited {color : darkgray;}
+table {
+    margin-left:auto; 
+    margin-right:auto;
+    border-spacing: 10px;
+    text-align: justify;
+}
+hr{border-style: none ; border-top-style:dotted ; border-width: 5px;
+    width: 3%; color:black}
+    table{text-align: center;}
